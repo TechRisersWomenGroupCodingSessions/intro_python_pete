@@ -69,7 +69,6 @@ You should see one test fail, like so:
 
 ### d) Getting started.
 Have a look at the material:
-- baker.py will contain the production code. Currently, it only contains a function cake() which does not return anything. 
--  test_baker.py contains the test. There are already some prewritten tests and steps outlined to get you started. 
-
+- baker.py will contain the production code. Currently, it only contains a dummy function. 
+-  test_baker.py contains a dummy test.
 
