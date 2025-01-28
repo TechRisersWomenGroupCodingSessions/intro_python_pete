@@ -59,16 +59,10 @@ pytest
 . 
 Tests should be detected automatically thanks to the naming of the file (e.g. _test_baker.py_) and the naming of the functions (e.g. _test_cake_function_takes_two_args()_) starting with __test__.
 
-You should see one test fail, like so:
-
-![image](pytest_red.png)
-
-
-
-
-
 ### d) Getting started.
 Have a look at the material:
 - baker.py will contain the production code. Currently, it only contains a dummy function. 
--  test_baker.py contains a dummy test.
+-  test_baker.py contains a dummy test. You task is now to write your first failing test, like so:
+![image](pytest_red.png)
+
 
